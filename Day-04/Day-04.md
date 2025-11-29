@@ -176,6 +176,4 @@ terraform state pull
 - **Terraform Version**: Requires Terraform 1.10+ for S3 native locking; 1.11+ recommended for stable GA release
 
 
-## Next Steps
 
-Proceed to Day 5 to learn about Terraform variables and how to make your configurations more flexible and reusable also don't forget to check the task.md file for the assignment of day 4.
