@@ -18,6 +18,6 @@ resource "aws_s3_bucket" "tf_test_moin_bucket" {
 
   tags = {
     Name        = "My bucket"
-    Environment = "Deva"
+    Environment = "Devaaaa"
   }
 }
